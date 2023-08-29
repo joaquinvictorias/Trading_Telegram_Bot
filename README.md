@@ -1,2 +1,2 @@
 # Trading_Telegram_Bot
-El objetivo de este proyecto es el desarrollo de un bot en la plataforma de mensajería Telegram, cuyo propósito será el de informar de la cotización de los diferentes instrumentos financieros proporcionados por MetaTrader 5
+El objetivo de este proyecto es el desarrollo de un bot en la plataforma de mensajería Telegram, cuyo propósito será el de informar de la cotización de los diferentes instrumentos financieros proporcionados por MetaTrader 5, herramienta gratuita para tráders que permite realizar análisis técnico y ejecutar operaciones comerciales en fórex y las bolsas; utilizando como bróker a Darwinex, que permite hacer trading en diferentes activos financieros.
